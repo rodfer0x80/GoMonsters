@@ -1,8 +1,12 @@
-module github.com/trevalkov/CryptoMonster
+module github.com/trevalkov/GoMonsters/CryptoMonster
 
-go 1.16
+go 1.17
+
+require golang.design/x/clipboard v0.5.3
 
 require (
-	github.com/mrhdias/godaemon v0.0.0-20211113203459-abc48e0ab1e1
-	golang.design/x/clipboard v0.5.3
+	golang.org/x/exp v0.0.0-20190731235908-ec7cb31e5a56 // indirect
+	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d // indirect
+	golang.org/x/mobile v0.0.0-20210716004757-34ab1303b554 // indirect
+	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
 )

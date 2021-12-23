@@ -1,6 +1,4 @@
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
-github.com/mrhdias/godaemon v0.0.0-20211113203459-abc48e0ab1e1 h1:JutHYKSK609xnD8fQhiKhRk2+fPKVxY8Ws7M+bygW/s=
-github.com/mrhdias/godaemon v0.0.0-20211113203459-abc48e0ab1e1/go.mod h1:Mb1UNWRGBIf5BcZjUbcCPY4jMWvg/jaMdat+5QBO7qI=
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 golang.design/x/clipboard v0.5.3 h1:JUxlkxohMUtpFcwPu1JjsAlkndNq8UVVeOBDAGE/il8=
 golang.design/x/clipboard v0.5.3/go.mod h1:ep0pB+/4DGJK3ayLxweWJFHhHGGv3npJJHMXAjtLTUM=
