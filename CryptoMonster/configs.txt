@@ -1,0 +1,3 @@
+btc_addr=123
+eth_addr=456
+xmr_addr=789
