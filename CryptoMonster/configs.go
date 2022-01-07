@@ -10,9 +10,9 @@ func BuildWallet() map[string]string {
 
 	configs, err := ioutil.ReadFile("configs.txt")
 	if err != nil {
-		wallet["btc_addr"] = ""
-		wallet["eth_addr"] = ""
-		wallet["xmr_addr"] = ""
+		wallet["btc_addr"] = "bitcoin_wallet"
+		wallet["eth_addr"] = "ethereum_wallet"
+		wallet["xmr_addr"] = "monero_wallet"
 	} else {
 		for i, line := range strings.Split(string(configs), "\n") {
 			s := strings.Split(string(line), "=")
